@@ -1,0 +1,10 @@
+target 'BaseProject' do
+
+pod 'MJRefresh', '~> 3.0.7'
+pod 'YYModel', '~> 0.9.5'
+pod 'Masonry', '~> 0.6.3'
+pod 'SDWebImage', '~> 3.7.3'
+pod 'YTKNetwork', '~> 1.0.0'
+pod 'Charts', '~> 2.2.4'
+
+end
